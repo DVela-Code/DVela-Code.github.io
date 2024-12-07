@@ -518,11 +518,12 @@ footer ul li {
 }
 
 .additional-content .content-wrapper .text-column {
-    font-size: 10px;
+    font-size: 22px;
 }
 
 .additional-content .content-wrapper .text-column p {
     padding-left: 15px;
+    font-size: 15px;
 }
 
 .additional-content .content-wrapper .text-column ul {
