@@ -374,7 +374,7 @@ header {
 
 .banner-title .text-special {
     position: absolute;
-    font-size: 10rem;
+    font-size: 13rem;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -392,13 +392,13 @@ header {
 }
 
 .banner-title .subtitle {
-    font-size: 20px;
+    font-size: 15px;
     position: relative;
     color: #ffffff;
     letter-spacing: 5px;
     text-transform: uppercase;
     z-index: 900;
-    top: 60px;
+    top: 40px;
 }
 
 body {
