@@ -300,7 +300,7 @@ header {
     font-size: 2rem;
     color: #ffffff;
     transition: 0.5s;
-    transform: scale(1);
+    transform: scale(0.5);
 }
 
 .flip-card-back .play:hover {
@@ -313,6 +313,7 @@ header {
 
 .flip-card-back a,
 .triangle-inverse .flip-card-back a {
+    font-size: 10px;
     text-decoration: none;
     color: #ffffff;
     text-transform: uppercase;
