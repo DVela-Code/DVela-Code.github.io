@@ -313,7 +313,7 @@ header {
 
 .flip-card-back a,
 .triangle-inverse .flip-card-back a {
-    font-size: 10px;
+    font-size: 5px;
     text-decoration: none;
     color: #ffffff;
     text-transform: uppercase;
