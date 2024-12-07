@@ -377,7 +377,7 @@ header {
 
 .banner-title h1 {
     color: #ffffff;
-    font-size: 10rem;
+    font-size: 5rem;
     text-transform: uppercase;
     letter-spacing: 10px;
     width: 100%;
@@ -388,7 +388,7 @@ header {
 
 .banner-title .text-special {
     position: absolute;
-    font-size: 30rem;
+    font-size: 10rem;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -407,7 +407,7 @@ header {
 
 .banner-title .subtitle {
     top: 60px;
-    font-size: 20px;
+    font-size: 15px;
     position: relative;
     color: #ffffff;
     letter-spacing: 5px;
