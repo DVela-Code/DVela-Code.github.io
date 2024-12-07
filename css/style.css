@@ -292,12 +292,17 @@ header {
     justify-content: start;
     align-items: center;
     flex-direction: column;
-    gap: 20px;
+    gap: 15px;
     padding-top: 50px;
     font-size: 10px;
     text-decoration: none;
-    color: #ffffff;
     text-transform: uppercase;
+}
+
+.flip-card-back a {
+    color: #ffffff;
+    font-decoration: none;
+    font-weight: 300;
 }
 
 .flip-card-back .play {
