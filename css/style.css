@@ -293,7 +293,7 @@ header {
     align-items: center;
     flex-direction: column;
     gap: 20px;
-    padding-top: 30px;
+    padding-top: 50px;
 }
 
 .flip-card-back .play {
@@ -308,12 +308,11 @@ header {
 }
 
 .triangle-inverse .flip-card-back {
-    padding-top: 100px;
+    padding-top: 125px;
 }
 
 .flip-card-back a,
 .triangle-inverse .flip-card-back a {
-    font-size: 15px;
     text-decoration: none;
     color: #ffffff;
     text-transform: uppercase;
@@ -378,7 +377,7 @@ header {
 
 .banner-title h1 {
     color: #ffffff;
-    font-size: 5rem;
+    font-size: 10rem;
     text-transform: uppercase;
     letter-spacing: 10px;
     width: 100%;
@@ -389,7 +388,7 @@ header {
 
 .banner-title .text-special {
     position: absolute;
-    font-size: 15rem;
+    font-size: 30rem;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -407,8 +406,8 @@ header {
 }
 
 .banner-title .subtitle {
-    top: 30px;
-    font-size: 15px;
+    top: 60px;
+    font-size: 20px;
     position: relative;
     color: #ffffff;
     letter-spacing: 5px;
