@@ -294,13 +294,17 @@ header {
     flex-direction: column;
     gap: 20px;
     padding-top: 50px;
+    font-size: 10px;
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
 }
 
 .flip-card-back .play {
     font-size: 2rem;
     color: #ffffff;
     transition: 0.5s;
-    transform: scale(0.5);
+    transform: scale(1);
 }
 
 .flip-card-back .play:hover {
@@ -308,16 +312,9 @@ header {
 }
 
 .triangle-inverse .flip-card-back {
-    padding-top: 125px;
+    padding-top: 100px;
 }
 
-.flip-card-back a,
-.triangle-inverse .flip-card-back a {
-    font-size: 10px;
-    text-decoration: none;
-    color: #ffffff;
-    text-transform: uppercase;
-}
 
 .triangle-inverse img,
 .triangle img {
