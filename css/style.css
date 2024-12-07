@@ -297,7 +297,7 @@ header {
 }
 
 .flip-card-back .play {
-    font-size: 3rem;
+    font-size: 2rem;
     color: #ffffff;
     transition: 0.5s;
     transform: scale(1);
@@ -308,7 +308,15 @@ header {
 }
 
 .triangle-inverse .flip-card-back {
-    padding-top: 150px;
+    padding-top: 100px;
+}
+
+.flip-card-back a,
+.triangle-inverse .flip-card-back a {
+    text-decoration: none;
+    color: #ffffff;
+    transform: scale(1);
+    text-transform: uppercase;
 }
 
 .triangle-inverse img,
